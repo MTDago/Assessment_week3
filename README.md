@@ -2,9 +2,9 @@
 
 An automated rostering tool for the employer with a high employee turnover rate and employer of casual and part-time employees. 
 
-####### Written by Dylan Speight and Michael Twitt
+Written by Dylan Speight and Michael Twitt
 
-####Github
+Github
 https://github.com/michaeltwitt/Assessment_week3
 
 ## DESCRIPTION
